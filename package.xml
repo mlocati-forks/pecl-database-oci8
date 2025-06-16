@@ -57,8 +57,8 @@ Oracle's standard cross-version connectivity applies.  For example, PHP OCI8 lin
  <time>12:00:00</time>
 
   <version>
-   <release>3.4.0</release>
-   <api>3.4.0</api>
+   <release>3.4.1</release>
+   <api>3.4.1</api>
   </version>
   <stability>
    <release>stable</release>
